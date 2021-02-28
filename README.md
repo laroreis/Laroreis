@@ -1,4 +1,5 @@
-!![Cópia de Família Laro! (1)](https://user-images.githubusercontent.com/79121527/109430257-2fb52280-79df-11eb-86f9-45197d408e32.jpg)
+![Cópia de Família Laro! (1)](https://user-images.githubusercontent.com/79121527/109430286-583d1c80-79df-11eb-8219-2e19214dc287.jpg)
+
 
 ### Hi there 👋
 
