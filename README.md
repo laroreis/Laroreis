@@ -1,4 +1,5 @@
-![Cópia de Família Laro!](https://user-images.githubusercontent.com/79121527/109430139-82420f00-79de-11eb-80a9-3f0d967c1780.jpg)
+!![Cópia de Família Laro! (1)](https://user-images.githubusercontent.com/79121527/109430257-2fb52280-79df-11eb-86f9-45197d408e32.jpg)
+
 ### Hi there 👋
 
 - 🔭 I estou  procurando emprego na área de desenvolvedor full satck Java jr. 
