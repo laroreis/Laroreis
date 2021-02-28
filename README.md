@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with  front end.
 - 💬 Ask me about  tudo no LinkedIn ou outras redes sociais.
 - 📫 How to reach me: laroreis3@gmail.com
-- ⚡  Faço faculdade de Produção Multimídiano Sena SP.
+- ⚡  Faço faculdade de Produção Multimídian  o Senac SP.
 -->
