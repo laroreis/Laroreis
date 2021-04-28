@@ -13,12 +13,13 @@
 
 ### Olá tudo bem? 👋
 
-- 🔭 I estou  procurando emprego na área de desenvolvedor full stack Java jr. 
-- 🌱 I’m currently learning  na equipe Generation Brasil, a linguagem java.
-- 🤔 I’m looking for help with  front end.
-- 💬 Ask me about  tudo no LinkedIn ou outras redes sociais.
-- 📫 How to reach me: laroreis3@gmail.com
-- ⚡  Faço faculdade de Produção Multimídian  o Senac SP.
+📷 Olá meu nome é Larissa mas pode me chamar de Laro,  tenho 20 anos e sou da capital de São Paulo, aprendi desde cedo, que existem muitas formas de me comunicar com o mundo sendo a imagem a mais forte delas, eu tenho uma paixão por desenhos,um dos meus momentos mais feliz é fazer uma aquarela no quintal de casa ouvindo roupa nova com uma caneca de chá, essa personalidade me fez seguir carreira como designer e produtora multimídia com foco em mídias digitais.
+
+📝 Hoje estou no bootcamp da Generation Brasil, me especializando no mundo de desenvolvimento web com java, ampliando meus conhecimentos com tecnologia, e entendendo na prática o que é dar vida aos meus protótipos.
+
+⌚ Sou escritora, desenhista e youtuber nas horas vagas, amo chocolate e passar tempo aprendendo coisas novas!
+
+---
 
 ## Autora 
 
@@ -28,6 +29,7 @@
  <sub><b>Larissa(Laro) Reis</b></sub></a> <a href="https://larissamreis3.myportfolio.com/" title="LarissaReis">🚀</a>
  <br />
  
+ ---
  ## Onde me encontrar? :mag:  
  
 [![Linkedin Badge](https://img.shields.io/badge/-Larissa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissamreis/)](https://www.linkedin.com/in/larissamreis/) 
